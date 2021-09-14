@@ -432,6 +432,10 @@ h1, h2, h3, h4, h5, h6, .font-primary {
     border-radius: 0 0 50% 50%;
     transform: translateX(-50%) translateY(20px) rotate(4deg);
   }
+
+  .atribuciones{
+    font-size: 4px;
+  }
 }
 
 @media (max-width: 575px) {
@@ -453,6 +457,9 @@ h1, h2, h3, h4, h5, h6, .font-primary {
     height: 94%;
     border-radius: 0 0 50% 50%;
     transform: translateX(-50%) translateY(20px) rotate(4deg);
+  }
+  .atribuciones{
+    font-size: 4px;
   }
 }
 
@@ -516,6 +523,9 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 @media (max-width: 575px) {
   #hero-no-slider h2 {
     font-size: 30px;
+  }
+  .atribuciones{
+    font-size: 4px;
   }
 }
 
@@ -1245,6 +1255,9 @@ section {
   .pricing .box {
     max-width: 100%;
     margin: 0 auto 30px auto;
+  }
+  .atribuciones{
+    font-size: 4px;
   }
 }
 
