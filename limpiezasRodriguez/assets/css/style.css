@@ -1592,6 +1592,10 @@ section {
   background: #8dbad2;
 }
 
+.atribuciones{
+  font-size: 8px;
+}
+
 @-webkit-keyframes animate-loading {
   0% {
     transform: rotate(0deg);
