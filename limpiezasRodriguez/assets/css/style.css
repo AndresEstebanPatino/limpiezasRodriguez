@@ -434,7 +434,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   }
 
   .atribuciones{
-    font-size: 4px;
+    font-size: 1px;
   }
 }
 
@@ -459,7 +459,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
     transform: translateX(-50%) translateY(20px) rotate(4deg);
   }
   .atribuciones{
-    font-size: 4px;
+    font-size: 1px;
   }
 }
 
@@ -525,7 +525,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
     font-size: 30px;
   }
   .atribuciones{
-    font-size: 4px;
+    font-size: 1px;
   }
 }
 
@@ -1257,7 +1257,7 @@ section {
     margin: 0 auto 30px auto;
   }
   .atribuciones{
-    font-size: 4px;
+    font-size: 1px;
   }
 }
 
